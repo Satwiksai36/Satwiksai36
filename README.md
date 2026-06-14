@@ -15,7 +15,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-satwiksai.netlify.app-8b5cf6?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://satwiksai.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-satwiksai.vercel.app-8b5cf6?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://satwiksai.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-satwiksaiveera-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satwiksaiveera/)
 [![Email](https://img.shields.io/badge/Email-satwiksai36%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satwiksai36@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Satwiksai36-4f46e5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Satwiksai36/)
